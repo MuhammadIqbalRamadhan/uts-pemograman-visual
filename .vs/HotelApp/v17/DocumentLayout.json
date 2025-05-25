@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\FormHotel.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormHotel.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\FormHotel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormHotel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\Program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHotel.vb",
+              "DocumentMoniker": "C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\FormHotel.vb",
+              "RelativeDocumentMoniker": "FormHotel.vb",
+              "ToolTip": "C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\FormHotel.vb",
+              "RelativeToolTip": "FormHotel.vb",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-25T05:46:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHotel.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\FormHotel.Designer.vb",
+              "RelativeDocumentMoniker": "FormHotel.Designer.vb",
+              "ToolTip": "C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\FormHotel.Designer.vb",
+              "RelativeToolTip": "FormHotel.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-25T05:46:30.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\muhammad iqbal\\Downloads\\HotelApp_Project\\HotelApp_Project\\HotelApp\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-25T05:46:15.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

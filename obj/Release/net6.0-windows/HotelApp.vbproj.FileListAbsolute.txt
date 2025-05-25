@@ -1,0 +1,14 @@
+D:\HotelApp_Project\HotelApp\bin\Release\net6.0-windows\HotelApp.exe
+D:\HotelApp_Project\HotelApp\bin\Release\net6.0-windows\HotelApp.deps.json
+D:\HotelApp_Project\HotelApp\bin\Release\net6.0-windows\HotelApp.runtimeconfig.json
+D:\HotelApp_Project\HotelApp\bin\Release\net6.0-windows\HotelApp.dll
+D:\HotelApp_Project\HotelApp\bin\Release\net6.0-windows\HotelApp.pdb
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\HotelApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\HotelApp.AssemblyInfoInputs.cache
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\HotelApp.AssemblyInfo.vb
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\HotelApp.vbproj.CoreCompileInputs.cache
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\HotelApp.dll
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\refint\HotelApp.dll
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\HotelApp.pdb
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\HotelApp.genruntimeconfig.cache
+D:\HotelApp_Project\HotelApp\obj\Release\net6.0-windows\ref\HotelApp.dll
